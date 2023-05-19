@@ -1,0 +1,84 @@
+{
+  "startLocation": {
+    "type": "Point",
+    "description": "NYC, USA",
+    "coordinates": [
+      -73.985141,
+      40.75894
+    ],
+    "address": "Manhattan, NY 10036, USA"
+  },
+  "ratingsAverage": 4.6,
+  "ratingsQuantity": 5,
+  "images": [
+    "tour-4-1.jpg",
+    "tour-4-2.jpg",
+    "tour-4-3.jpg"
+  ],
+  "startDates": [
+    "2021-03-11T10:00:00.000Z",
+    "2021-05-02T09:00:00.000Z",
+    "2021-06-09T09:00:00.000Z"
+  ],
+  "secretTour": false,
+  "guides": [
+    {
+      "photo": "user-12.jpg",
+      "role": "lead-guide",
+      "_id": "5c8a22c62f8fb814b56fa18b",
+      "name": "Miyah Myles",
+      "email": "miyah@example.com"
+    },
+    {
+      "photo": "user-7.jpg",
+      "role": "guide",
+      "_id": "5c8a201e2f8fb814b56fa186",
+      "name": "Kate Morrison",
+      "email": "kate@example.com"
+    }
+  ],
+  "_id": "5c88fa8cf4afda39709c295d",
+  "name": "The City Wanderer",
+  "duration": 9,
+  "maxGroupSize": 20,
+  "difficulty": "easy",
+  "price": 1197,
+  "summary": "Living the life of Wanderlust in the US' most beatiful cities",
+  "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+  "imageCover": "tour-4-cover.jpg",
+  "locations": [
+    {
+      "type": "Point",
+      "coordinates": [
+        -73.967696,
+        40.781821
+      ],
+      "_id": "5c88fa8cf4afda39709c2960",
+      "description": "New York",
+      "day": 1
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        -118.324396,
+        34.097984
+      ],
+      "_id": "5c88fa8cf4afda39709c295f",
+      "description": "Los Angeles",
+      "day": 3
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        -122.408865,
+        37.787825
+      ],
+      "_id": "5c88fa8cf4afda39709c295e",
+      "description": "San Francisco",
+      "day": 5
+    }
+  ],
+  "slug": "the-city-wanderer",
+  "durationWeeks": 1.3,
+  "id": "5c88fa8cf4afda39709c295d"
+}

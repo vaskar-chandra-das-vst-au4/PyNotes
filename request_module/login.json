@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVjOGExZDViMDE5MGIyMTQzNjBkYzA1NyIsImlhdCI6MTY4MTE1MTkxMiwiZXhwIjoxNjg4OTI3OTEyfQ.eJaxagFWTK8VbTxDGh5kOxskZXzKi6poReYD8WtOHN8",
+  "data": {
+    "user": {
+      "photo": "user-1.jpg",
+      "role": "admin",
+      "_id": "5c8a1d5b0190b214360dc057",
+      "name": "Jonas Schmedtmann",
+      "email": "admin@natours.io",
+      "__v": 0
+    }
+  }
+}

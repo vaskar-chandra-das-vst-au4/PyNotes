@@ -1,0 +1,101 @@
+{
+  "startLocation": {
+    "type": "Point",
+    "description": "Las Vegas, USA",
+    "coordinates": [
+      -115.172652,
+      36.110904
+    ],
+    "address": "3663 S Las Vegas Blvd, Las Vegas, NV 89109, USA"
+  },
+  "ratingsAverage": 4.7,
+  "ratingsQuantity": 7,
+  "images": [
+    "tour-5-1.jpg",
+    "tour-5-2.jpg",
+    "tour-5-3.jpg"
+  ],
+  "startDates": [
+    "2021-08-05T09:00:00.000Z",
+    "2022-03-20T10:00:00.000Z",
+    "2022-08-12T09:00:00.000Z"
+  ],
+  "secretTour": false,
+  "guides": [
+    {
+      "photo": "user-5c8a21f22f8fb814b56fa18a-1665252229608.jpeg",
+      "role": "lead-guide",
+      "_id": "5c8a21f22f8fb814b56fa18a",
+      "name": "Aarav Lynn",
+      "email": "aarav@example.com"
+    },
+    {
+      "photo": "user-13.jpg",
+      "role": "guide",
+      "_id": "5c8a23412f8fb814b56fa18c",
+      "name": "Ben Hadley",
+      "email": "ben@example.com"
+    },
+    {
+      "photo": "user-7.jpg",
+      "role": "guide",
+      "_id": "5c8a201e2f8fb814b56fa186",
+      "name": "Kate Morrison",
+      "email": "kate@example.com"
+    }
+  ],
+  "_id": "5c88fa8cf4afda39709c2961",
+  "name": "The Park Camper",
+  "duration": 10,
+  "maxGroupSize": 15,
+  "difficulty": "medium",
+  "price": 1497,
+  "summary": "Breathing in Nature in America's most spectacular National Parks",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+  "imageCover": "tour-5-cover.jpg",
+  "locations": [
+    {
+      "type": "Point",
+      "coordinates": [
+        -112.987418,
+        37.198125
+      ],
+      "_id": "5c88fa8cf4afda39709c2965",
+      "description": "Zion Canyon National Park",
+      "day": 1
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        -111.376161,
+        36.86438
+      ],
+      "_id": "5c88fa8cf4afda39709c2964",
+      "description": "Antelope Canyon",
+      "day": 4
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        -112.115763,
+        36.058973
+      ],
+      "_id": "5c88fa8cf4afda39709c2963",
+      "description": "Grand Canyon National Park",
+      "day": 5
+    },
+    {
+      "type": "Point",
+      "coordinates": [
+        -116.107963,
+        34.011646
+      ],
+      "_id": "5c88fa8cf4afda39709c2962",
+      "description": "Joshua Tree National Park",
+      "day": 9
+    }
+  ],
+  "slug": "the-park-camper",
+  "durationWeeks": 1.4,
+  "id": "5c88fa8cf4afda39709c2961"
+}
